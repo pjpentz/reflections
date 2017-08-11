@@ -1,0 +1,8 @@
+lesson-2-reflections
+
+1) What happens when you initialize a repository? Why do you need to do it?
+- Initializing a repository starts the git process. You need to do it because w/out it you wont be able to make changes easily 
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+- The staging area is an in between area to place your files before commiting them
+- This allows you to organize and confirm your changes before commiting them 
