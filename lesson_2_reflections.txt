@@ -6,3 +6,16 @@ lesson-2-reflections
 2) How is the staging area different from the working directory and the repository? What value do you think it offers?
 - The staging area is an in between area to place your files before commiting them
 - This allows you to organize and confirm your changes before commiting them 
+
+3) How can you use the staging area to make sure you have one commit per logical change?
+- You can verify the changes you made before commiting 
+
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- Brancehs can be helpful if you need different versions such as an english and spanish version. Or when you want to experiement. They help because you don't need to make changes to your master if you want to play around. You can multiple branches, one where active work is always being done, one for production, one for a differnt language, etc. 
+
+5) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- The changes will take effect to the master branch. It's represneted this way because each commit has a parent commit. 
+
+6) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- Manually merging gives you full control. If Git did the merging then it may merge when you are not ready to merge. 
+
